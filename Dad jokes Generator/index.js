@@ -1,7 +1,7 @@
 const btnEl = document.getElementById("btn");
 const jokeEl = document.getElementById("joke")
 
-const apikey = "LOJK6tlL0y25fu7Um/WS9w==SIopuJ6Kq8Gu9OQj";
+const apikey = "LOJK6tlL0y25fu7Um/WS9w==SIopuJ6Kq8Gu9OQj1"; // your api key -> Create account in apininjas_ https://api-ninjas.com/
 
 const options ={
     method: "GET",
